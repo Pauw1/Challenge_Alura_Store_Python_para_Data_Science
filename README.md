@@ -67,7 +67,7 @@ Main notebook containing all data processing, visualization, and conclusions.
 ### ES:
 -----Este proyecto demuestra cómo el análisis de datos puede respaldar decisiones estratégicas en entornos comerciales reales.
 
-###EN:
+### EN:
 -----This project demonstrates how data analysis can support strategic decision-making in real business contexts.
 
 ## 🚀 Cómo usar este repositorio | How to Use
@@ -82,8 +82,8 @@ Main notebook containing all data processing, visualization, and conclusions.
 ------Make sure the required datasets are located in the same directory.
 
 ## 🙋‍♀️ Autora | Author
-## Paulina Rojas
-## Estudiante de programación y ciencia de datos
-## Programming and Data Science Student
+### Paulina Rojas
+### Estudiante de programación y ciencia de datos
+### Programming and Data Science Student
 📫 `[LinkedIn:]` www.linkedin.com/in/paulinarojasg
 
